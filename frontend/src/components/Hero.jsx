@@ -45,8 +45,8 @@ export default function Hero() {
             </h1>
 
             {/* Description */}
-            <p className="text-gray-600 text-lg leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          <p className="text-gray-600 text-lg leading-relaxed">
+              Discover the latest trends in fashion with our curated collection of premium clothing. From timeless classics to bold statements, elevate your wardrobe with pieces designed for the modern trendsetter.
             </p>
 
             {/* CTA Button */}
